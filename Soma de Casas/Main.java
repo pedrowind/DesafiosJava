@@ -18,7 +18,7 @@ A última linha da entrada contém um inteiro K, que é a soma dos números das 
 
 Saída
 Se programa deve imprimir uma única linha, contendo dois inteiros, A e B, A<B, que representam os números das casas em que 
-estão escondidos os brinquedos. Os dois números devem ser separados por um espaço em branco.
+estão escondidos os brinquedos. Os dois números devem ser separados por um espaço em branco
 */
 
 import java.util.*;
